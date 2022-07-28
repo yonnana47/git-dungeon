@@ -1,2 +1,2 @@
-email :
-gitID :
+email : sasakiran@kakao.com
+gitID : yonnana47
